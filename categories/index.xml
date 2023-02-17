@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Times Capital Research</title>
-    <link>https://zhuque.github.io/tcr-hk/categories/</link>
+    <link>https://zhuque.github.io/tcrhk/categories/</link>
     <description>Recent content in Categories on Times Capital Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zhuque.github.io/tcr-hk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zhuque.github.io/tcrhk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>https://zhuque.github.io/tcr-hk/categories/tech/</link>
+      <link>https://zhuque.github.io/tcrhk/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhuque.github.io/tcr-hk/categories/tech/</guid>
+      <guid>https://zhuque.github.io/tcrhk/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://zhuque.github.io/tcr-hk/categories/tips/</link>
+      <link>https://zhuque.github.io/tcrhk/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhuque.github.io/tcr-hk/categories/tips/</guid>
+      <guid>https://zhuque.github.io/tcrhk/categories/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://zhuque.github.io/tcr-hk/categories/life/</link>
+      <link>https://zhuque.github.io/tcrhk/categories/life/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhuque.github.io/tcr-hk/categories/life/</guid>
+      <guid>https://zhuque.github.io/tcrhk/categories/life/</guid>
       <description></description>
     </item>
     
